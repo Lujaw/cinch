@@ -60,7 +60,7 @@ Features
 ### Documentation
 
 Cinch provides a documented API, which is online for your viewing pleasure
-[here](http://rubydoc.info/github/cinchrb/cinch/master/).
+[here](http://rubydoc.info/gems/cinch/frames).
 
 ### Object Oriented
 
@@ -147,8 +147,8 @@ messages:
 Authors
 -------
 
+* [Dominik Honnef](http://dominik.honnef.co)
 * [Lee Jarvis](http://injekt.net)
-* [Dominik Honnef](http://fork-bomb.org)
 
 Contribute
 ----------
@@ -171,3 +171,4 @@ to check it out.
   discussing design decisions etc)
 - Emil Loer (http://github.com/thedjinn) for improving the handling of
   unexpected disconnects and reconnects.
+- Check the list of authors for smaller contributions
